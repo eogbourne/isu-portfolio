@@ -1,4 +1,5 @@
-# Robots.txt file for student portfolio
+# Robots.txt file for https://eogbourne.github.io/isu-portfolio
 
 User-agent: *
+Sitemap: https://eogbourne.github.io/isu-portfolio/sitemap.xml
 Disallow: /
